@@ -1,0 +1,10 @@
+F:\PNWCodeWright\Time\StopWatch\CS\StopWatch\bin\Debug\netcoreapp2.1\StopWatch.deps.json
+F:\PNWCodeWright\Time\StopWatch\CS\StopWatch\bin\Debug\netcoreapp2.1\StopWatch.runtimeconfig.json
+F:\PNWCodeWright\Time\StopWatch\CS\StopWatch\bin\Debug\netcoreapp2.1\StopWatch.runtimeconfig.dev.json
+F:\PNWCodeWright\Time\StopWatch\CS\StopWatch\bin\Debug\netcoreapp2.1\StopWatch.dll
+F:\PNWCodeWright\Time\StopWatch\CS\StopWatch\bin\Debug\netcoreapp2.1\StopWatch.pdb
+F:\PNWCodeWright\Time\StopWatch\CS\StopWatch\obj\Debug\netcoreapp2.1\StopWatch.csproj.CoreCompileInputs.cache
+F:\PNWCodeWright\Time\StopWatch\CS\StopWatch\obj\Debug\netcoreapp2.1\StopWatch.AssemblyInfoInputs.cache
+F:\PNWCodeWright\Time\StopWatch\CS\StopWatch\obj\Debug\netcoreapp2.1\StopWatch.AssemblyInfo.cs
+F:\PNWCodeWright\Time\StopWatch\CS\StopWatch\obj\Debug\netcoreapp2.1\StopWatch.dll
+F:\PNWCodeWright\Time\StopWatch\CS\StopWatch\obj\Debug\netcoreapp2.1\StopWatch.pdb
